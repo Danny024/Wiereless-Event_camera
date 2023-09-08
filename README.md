@@ -33,11 +33,14 @@ The event Cameras used for the project are the Prophesee EVK3 and EVK4 which can
 
 ## 3D Mount for Camera
 ![3D mount](images/assembly_card.jpg) 
+
 ![Mount](images/assembly.jpg)
+
 ![prototype](images/prot.jpg)
 
 ## Wireless Communication and ROS Integration
 ![ros](images/arch.jpg)
+
 ![rps_ip](images/ros_ip.jpg)
 
 
