@@ -43,6 +43,7 @@ The event Cameras used for the project are the Prophesee EVK3 and EVK4 which can
 ![prototype](images/real_2.jpg)
 
 ## Wireless Communication and ROS Integration
+The wireless communication was done using ROS IP Network Configuration.
 
 ![rps_ip](images/ros_ip.jpg)
 
