@@ -1,6 +1,11 @@
 # Wireless-Event_camera
 This Project entails the design of a Wireless Event Camera. 
 ## Video Demo :
+## Initial Stage 
+
+[![Event Camera](https://img.youtube.com/vi/GXWf6FFlcoc/0.jpg)](https://www.youtube.com/watch?v=GXWf6FFlcoc)
+
+## Final Stage
 
 [![Event Camera](https://img.youtube.com/vi/MkHgZYlNgjk/0.jpg)](https://www.youtube.com/shorts/MkHgZYlNgjk)
 
@@ -19,5 +24,6 @@ The source code for this project is built with the source code
 The project is built using source code from
 [Prophesee Ros Wrapper Repository](https://github.com/prophesee-ai/prophesee_ros_wrapper) and the [Prophesee Documentation](https://docs.prophesee.ai/stable/index.html)
 
+## 3D Mount for Camera
 
 
