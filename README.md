@@ -1,5 +1,8 @@
 # Wireless-Event_camera
 This Project entails the design of a Wireless Event Camera. 
+The source code for this project is built with the source code
+The project is built using source code from
+[Prophesee Ros Wrapper Repository](https://github.com/prophesee-ai/prophesee_ros_wrapper) and the [Prophesee Documentation](https://docs.prophesee.ai/stable/index.html)
 ## Video Demo :
 ## Initial Stage 
 
@@ -20,9 +23,7 @@ The event Cameras used for the project are the Prophesee EVK3 and EVK4 which can
 4. Integrate the Event Camera on ROS.
 
 ## Guide
-The source code for this project is built with the source code
-The project is built using source code from
-[Prophesee Ros Wrapper Repository](https://github.com/prophesee-ai/prophesee_ros_wrapper) and the [Prophesee Documentation](https://docs.prophesee.ai/stable/index.html)
+
 
 ## 3D Mount for Camera
 
