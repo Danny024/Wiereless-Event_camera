@@ -1,7 +1,7 @@
 # Wireless-Event_camera
 This Project entails the design of a Wireless Event Camera. 
 ## Disclaimer
-This project is built using source code forked
+This project is built using source code gotten from
 [Prophesee Ros Wrapper Repository](https://github.com/prophesee-ai/prophesee_ros_wrapper) and guide from [Prophesee Documentation](https://docs.prophesee.ai/stable/index.html)
 ## Video Demo :
 ## Initial Stage 
@@ -22,6 +22,29 @@ The event Cameras used for the project are the Prophesee EVK3 and EVK4 which can
 3. Design a 3D Mount for the event camera
 4. Integrate the Event Camera on ROS.
 
+### Hard Ware 
+1. Raspberry Pi 4
+2. Nvidia Jetson Tx
+3. EVK3 / EVK4
+
+### Software dependencis
+1. ROS Melodic
+2. Ubuntu 18.04
+
 ## 3D Mount for Camera
+![3D mount](images/assembly_card.jpg) 
+![Mount](images/assembly.jpg)
+![prototype](images/prot.jpg)
+
+## Wireless Communication and ROS Integration
+![ros](images/arch.jpg)
+![rps_ip](images/ros_ip.jpg)
+
+
+
+
+
+
+
 
 
