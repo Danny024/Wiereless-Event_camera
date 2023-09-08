@@ -31,17 +31,20 @@ The event Cameras used for the project are the Prophesee EVK3 and EVK4 which can
 1. ROS Melodic
 2. Ubuntu 18.04
 
-## 3D Mount for Camera
-![3D mount](images/assembly_card.jpg) 
+# 3D Mount for Camera
+
+## CAD Design
+
+![3D mount](images/asssembly_card.jpg) 
 
 ![Mount](images/assembly.jpg)
 
+## Physical Prototype
 ![prototype](images/real.jpg)
 
 ![prototype](images/real_2.jpg)
 
 ## Wireless Communication and ROS Integration
-![ros](images/arch.jpg)
 
 ![rps_ip](images/ros_ip.jpg)
 
