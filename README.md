@@ -25,7 +25,7 @@ The event Cameras used for the project are the Prophesee EVK3 and EVK4 which can
 ### Hard Ware 
 1. Raspberry Pi 4
 2. Nvidia Jetson Tx
-3. EVK3 / EVK4
+3. EVK3 / EVK4 Event Camera
 
 ### Software dependencis
 1. ROS Melodic
