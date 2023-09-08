@@ -1,6 +1,6 @@
 # Wireless-Event_camera
 This Project entails the design of a Wireless Event Camera. 
-Video Demo :
+## Video Demo :
 
 [![Event Camera](https://img.youtube.com/vi/MkHgZYlNgjk/0.jpg)](https://www.youtube.com/shorts/MkHgZYlNgjk)
 
