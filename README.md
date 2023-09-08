@@ -37,8 +37,6 @@ The event Cameras used for the project are the Prophesee EVK3 and EVK4 which can
 
 ![3D mount](images/assembly_card.jpg) 
 
-![Mount](images/asssembly.jpg)
-
 ## Physical Prototype
 ![prototype](images/real.jpg)
 
