@@ -22,9 +22,6 @@ The event Cameras used for the project are the Prophesee EVK3 and EVK4 which can
 3. Design a 3D Mount for the event camera
 4. Integrate the Event Camera on ROS.
 
-## Guide
-
-
 ## 3D Mount for Camera
 
 
